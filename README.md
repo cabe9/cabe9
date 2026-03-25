@@ -1,6 +1,6 @@
 ## Hi I'm Caleb 👋
 
-Biomedical engineer focused on experimental systems and biological data analysis.
+Biomedical engineer focused on computational neuroscience and biological data analysis.
 
 Developed a microfluidic platform for E. coli biofilm experiments under flow and antibiotic gradients, with fluorescence quantification and COMSOL-based shear modeling.
 
